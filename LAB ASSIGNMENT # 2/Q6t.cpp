@@ -8,7 +8,7 @@ struct Subject
 struct Student
 {
     int id;
-    Subject subjects[5];
+    Subject subjects[3];
 };
 int main()
 {
